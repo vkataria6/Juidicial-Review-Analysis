@@ -1,4 +1,4 @@
-# Second-Unguided-Project-Team-B
+# Judicial Branch Analysis
 install.packages("igraph")
 ```{r, message=FALSE, warning=FALSE}
 library(igraph)
